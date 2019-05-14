@@ -1,5 +1,4 @@
-const greet = (name = 'World') => {
-  return `Hello ${name}!`;
-}
+const greet = (name = 'World') => `Hello ${name}!`;
 
-console.log(helloWorld);
+
+console.log(greet);
